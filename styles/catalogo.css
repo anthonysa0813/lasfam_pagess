@@ -1,0 +1,103 @@
+
+
+.catalogo_sup {
+    height: 300px;
+    border: 1px solid transparent;
+}
+
+.catalogo_sup img {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+}
+
+.cat {
+    padding-bottom: 80px;
+}
+.catalogo_inf {
+    height: 300px;
+
+}
+
+.catalogo_inf img {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    object-fit: cover;
+}
+
+
+.misions{
+    
+    width: 100%;
+    
+    margin-top: 80px;
+}
+
+.contenedor {
+    width: auto;
+    
+    justify-content: center;
+    align-items: center;
+    background-color: #508fc2;
+    padding: 0;
+}
+.contenedor_2 {
+    background-color: #1994b3;
+}
+.contenedor img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    
+}
+
+.contenedor p {
+    font-size: 20px;
+    color: white;
+    margin-top: 75px;
+}
+.contenedor h1 {
+    color: white;
+    margin-top: 50px;
+}
+
+.contenedor_2 p {
+    font-size: 20px;
+    color: white;
+    margin-top: 75px;
+}
+.contenedor_2 h1 {
+    color: white;
+    margin-top: 50px;
+}
+.contenedor_2 img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    
+    
+}
+
+.footer {
+    
+    background-color: black;
+    color: white;
+    
+}
+
+.icons-social {
+    padding: 50px;
+}
+.icons-social span {
+    font-size: 35px;
+    margin-left: 10px;
+}
+
+.footer-name {
+    padding: 20px;
+}
+
+strong {
+    color: blue;
+}
